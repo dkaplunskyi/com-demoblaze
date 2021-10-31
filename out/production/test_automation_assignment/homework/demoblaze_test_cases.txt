@@ -1,0 +1,41 @@
+#1 Test Case: Purchase functionality
+Test steps:
+1. Go to the https://www.demoblaze.com/index.html
+2. Choose a product
+3. Verify that the product page loaded successfully
+4. Click to "Add to cart" button
+5. Verify that the Alert window with "Product added" message pops up
+6. Go to Cart
+7. Verify that the Cart page loaded successfully
+8. Click "Place order" button
+9. Fill out all fields and click "Purchase" button
+10. Make sure the product was purchased successfully with "Thank you for you purchase!" message
+
+#2 Test case: Navigate through all the products categories
+Test steps:
+1. Go to the https://www.demoblaze.com/index.html
+2. Navigate to "Categories" list of product and click on "Phone" link
+3. Verify that the "phone" products updated on main page
+4. Navigate to "Categories" list of product and click on "Laptops" link
+5. Verify that the "Laptops" products updated on main page
+6. Navigate to "Categories" list of product and click on "Monitors" link
+7. Verify that the "Monitors" products updated on main page
+
+#3 Test case: Navigation links functionality
+Test steps:
+1. Go to the https://www.demoblaze.com/index.html
+2. Click on "Home" link and verify that the main page loaded/reloaded successfully
+3. Click on Logo image and verify that the main page loaded/reloaded successfully
+4. Click on "Contact" link and verify that the "Contact" window shows up
+5. Click on "About us" link and verify that the "About us" window with video shows up
+6. Click on "Cart" link and verify that the "Cart" page loaded successfully
+7. Click on "Log in" link and verify that the "Log in" page loaded successfully
+8. Click on "Sign up" link and verify that the "Sign up" page loaded successfully
+
+
+
+
+
+
+
+
